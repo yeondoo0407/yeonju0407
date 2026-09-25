@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 this.speedX = Math.random() * 0.4 - 0.2;
                 this.speedY = Math.random() * 0.4 - 0.2;
                 this.opacity = Math.random() * 0.4 + 0.1;
-                this.color = `rgba(163, 230, 53, ${this.opacity})`;
+                this.color = `rgba(190, 24, 93, ${this.opacity})`;
             }
 
             update() {
