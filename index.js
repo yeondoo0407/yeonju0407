@@ -459,7 +459,7 @@ document.addEventListener('DOMContentLoaded', () => {
             date: '2026.06.05',
             number: 'ADsP-049010317',
             desc: '데이터 이해, 데이터 분석 기획, 데이터 분석 실무(R/통계 분석) 역량을 공인받은 국가공인 데이터 전문 자격입니다.',
-            imgUrl: 'assets/certificates/adsp.png'
+            pdfUrl: 'assets/certificates/adsp.pdf'
         },
         'cert-com2': {
             title: '컴퓨터활용능력 2급',
@@ -499,7 +499,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: 'OPIc (영어 말하기) IM2',
             agency: 'ACTFL (미국외국어교육위원회)',
             date: '2026.09.07 (만료일: 2028.09.06)',
-            number: 'H6RT-3MFF-9525-PQKJ-QAJ3',
+            number: '2A9540325622',
             desc: '일상적이고 친숙한 사회적·비즈니스 상황에서 자연스럽게 문장을 조합하여 의사를 명확히 표현할 수 있는 글로벌 커뮤니케이션 역량을 인증받았습니다.',
             imgUrl: 'assets/certificates/opic_im2.jpg'
         }
